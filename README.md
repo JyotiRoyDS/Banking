@@ -1,6 +1,4 @@
 # Banking
-# Banking Analytics Dashboard
-
 ## Overview
 This repository contains a comprehensive Power BI dashboard analyzing banking transaction patterns across digital channels (Internet Banking vs Mobile Banking) for major Indian banks and international banks operating in India.
 

@@ -4,7 +4,7 @@
 ## Overview
 This repository contains a comprehensive Power BI dashboard analyzing banking transaction patterns across digital channels (Internet Banking vs Mobile Banking) for major Indian banks and international banks operating in India.
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### Key Metrics Analyzed
 - **Total Transaction Amount**: Volume-based analysis across banks
@@ -18,7 +18,7 @@ This repository contains a comprehensive Power BI dashboard analyzing banking tr
 - Time series analysis of monthly trends
 - Multi-dimensional comparative analysis
 
-## 🏦 Banks Covered
+## Banks Covered
 
 ### Major Indian Banks
 - State Bank of India (SBI)
@@ -50,7 +50,7 @@ This repository contains a comprehensive Power BI dashboard analyzing banking tr
 - Fino Payments Bank
 - India Post Payments Bank Limited
 
-## 📈 Key Insights
+## Key Insights
 
 ### Channel Preferences
 - **Mobile Banking Dominance**: Most banks show higher mobile banking adoption
@@ -62,13 +62,13 @@ This repository contains a comprehensive Power BI dashboard analyzing banking tr
 - Total amounts processed between 28bn to 104bn per month
 - Active customer base ranging from 82M to 262M monthly
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Visualization Tool**: Microsoft Power BI Desktop
 - **Data Source**: Banking transaction data
 - **Analysis Period**: 10 months (January - October)
 - **Metrics**: Amount, Customer count, Transaction volume
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Microsoft Power BI Desktop
@@ -88,7 +88,7 @@ This repository contains a comprehensive Power BI dashboard analyzing banking tr
 3. Refresh data connections if needed
 4. Explore the interactive visualizations
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 1. **Total Amount by Bank**: Compare transaction volumes across banks
 2. **Active Customers by Bank**: Analyze customer engagement patterns
@@ -96,7 +96,7 @@ This repository contains a comprehensive Power BI dashboard analyzing banking tr
 4. **Correlation Analysis**: Relationship between metrics
 5. **Monthly Trends**: Time-based performance tracking
 
-## 🔍 Usage Examples
+## Usage Examples
 
 ### Analyzing Bank Performance
 - Filter by specific banks to compare performance
